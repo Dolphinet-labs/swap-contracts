@@ -1,0 +1,28 @@
+{
+  "chainId": 1520,
+  "chainName": "Dolphinet",
+  "rpcUrl": "https://rpc.dolphinode.world/",
+  "explorerUrl": "https://explorer.dolphinode.world",
+  "factory": "0xf0D5b329e7A43dC014d46B79cd99b82EB26fbC37",
+  "router": "0x84D95e5d767d10841387fba50B94534ffB5aeFab",
+  "wrappedNative": "0xFEde7dF3dfdaaBeC24B0B41aEC75500A35C201fA",
+  "initCodeHash": "0xcaa2da3f024b3624669464e0d7cb4cd3ce62345cc347579fc16aecc3b020c722",
+  "tokens": {
+    "USDT": {
+      "address": "0xF61C878b8116358BCfC5b6b45275035a658017Fa",
+      "decimals": 6
+    },
+    "USDOL": {
+      "address": "0xE1B7bEE68E1803A3Ba13E75dE1dEC117e4654500",
+      "decimals": 6
+    },
+    "WDOL": {
+      "address": "0xFEde7dF3dfdaaBeC24B0B41aEC75500A35C201fA",
+      "decimals": 18
+    }
+  },
+  "pairs": {
+    "WDOL-USDT": "0x0b4dfb3bc7294bd89320F4d6686481a769587c9a",
+    "WDOL-USDOL": "0x842a57bf05e9205D5bEcDCb3B201e08763853D17"
+  }
+}
